@@ -15,11 +15,11 @@
  */
 package com.google.android.gcm.demo.server;
 
-import com.google.android.gcm.server.Constants;
-import com.google.android.gcm.server.Message;
-import com.google.android.gcm.server.MulticastResult;
-import com.google.android.gcm.server.Result;
-import com.google.android.gcm.server.Sender;
+import com.google.android.gcm.demo.server.Constants;
+import com.google.android.gcm.demo.server.Message;
+import com.google.android.gcm.demo.server.MulticastResult;
+import com.google.android.gcm.demo.server.Result;
+import com.google.android.gcm.demo.server.Sender;
 
 import java.io.IOException;
 import java.util.ArrayList;
